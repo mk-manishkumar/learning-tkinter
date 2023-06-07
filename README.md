@@ -7,6 +7,7 @@ This repository contains a collection of projects created using **Tkinter**, a p
 ### Project 1: Login Window
 
  - Description: A login window where users can enter their **email and password** to log in if the credentials are correct.
+ - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/Login%20Window)
  - Screenshot:
 
 
@@ -16,6 +17,7 @@ This repository contains a collection of projects created using **Tkinter**, a p
 ### Project 2: Wallpaper Viewer
 
  - Description: A small window where you can see multiple wallpapers just by clicking **next** button.
+ - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/Wallpaper%20Viewer)
  - Screenshot:
 
 
