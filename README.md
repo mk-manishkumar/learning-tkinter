@@ -22,9 +22,18 @@ This repository contains a collection of projects created using **Tkinter**, a p
 
 
  ![02](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/5e32cbf2-438a-4415-9a03-03cf4b7ffe20)
+ 
+ ### Project 3: Calculator
+
+ - Description: A calculator GUI application where user can do all primary mathematical operations.
+ - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/Calculator)
+ - Screenshot:
 
 
-## Getting Started
+ ![03](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/e168edc6-0863-465a-98d3-7ff9898b47e5)
+
+
+ ## Getting Started
 
 To get started with these projects, follow the steps below:
 
