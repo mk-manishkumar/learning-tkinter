@@ -31,6 +31,15 @@ This repository contains a collection of projects created using **Tkinter**, a p
 
 
  ![03](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/e168edc6-0863-465a-98d3-7ff9898b47e5)
+ 
+ ### Project 4: News Application
+
+ - Description: A news application that showcases the top 10 news (India) of every hour with the assistance of the News API.
+ - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/News%20App)
+ - Screenshot:
+
+![04](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/2c6bb2c2-338f-4f17-91af-aa0ae87cf7f5)
+
 
 
  ## Getting Started
