@@ -41,6 +41,16 @@ This repository contains a collection of projects created using **Tkinter**, a p
 ![04](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/2c6bb2c2-338f-4f17-91af-aa0ae87cf7f5)
 
 
+### Project 5: Palindrome Checker
+
+ - Description: A window where users can enter word/number and then click on submit button to check whether it's palindrome or not.
+ - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/palincdrome%20checker)
+ - Screenshot:
+
+![05](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/96a23a18-2ff6-4802-ad25-7c85217d6dfb)
+
+
+
 
  ## Getting Started
 
