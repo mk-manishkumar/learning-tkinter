@@ -50,6 +50,14 @@ This repository contains a collection of projects created using **Tkinter**, a p
 ![05](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/96a23a18-2ff6-4802-ad25-7c85217d6dfb)
 
 
+### Project 6: Simple Interest Calculator
+
+ - Description: A GUI app where the user can input the principal amount, rate of interest, and time. They will receive the simple interest after clicking the Calculate button.
+ - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/Simple%20Interest%20Calculator)
+ - Screenshot:
+
+![06](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/3b7163b1-44ec-4a6e-9e02-87b780cc2791)
+
 
 
  ## Getting Started
