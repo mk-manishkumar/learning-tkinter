@@ -59,6 +59,14 @@ This repository contains a collection of projects created using **Tkinter**, a p
 ![06](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/3b7163b1-44ec-4a6e-9e02-87b780cc2791)
 
 
+### Project 7: Login Window
+
+ - Description: A GUI app where user can toggle with light and dark theme just by clicking a button.
+ - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/Light%20Dark%20Theme%20Toggle)
+ - Screenshot:
+
+![07](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/2e92c87a-9dd5-41a1-b0d3-8b302d012d53)
+
 
  ## Getting Started
 
