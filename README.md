@@ -73,7 +73,8 @@ This repository contains a collection of projects created using **Tkinter**, a p
  - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/Spelling%20Checker)
  - Screenshot:
 
-![07](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/2e92c87a-9dd5-41a1-b0d3-8b302d012d53)
+![08](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/5ba23b65-8857-4e10-852d-647143b8bf70)
+
 
 
  ## Getting Started
