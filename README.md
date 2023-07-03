@@ -61,8 +61,16 @@ This repository contains a collection of projects created using **Tkinter**, a p
 
 ### Project 7: Login Window
 
- - Description: A GUI app where user can toggle with light and dark theme just by clicking a button.
+ - Description: A GUI app where users can toggle between light and dark themes by clicking a button.
  - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/Light%20Dark%20Theme%20Toggle)
+ - Screenshot:
+
+![07](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/2e92c87a-9dd5-41a1-b0d3-8b302d012d53)
+
+### Project 8: Spelling Checker
+
+ - Description: A GUI app where users can check English spellings just by entering the word and pressing the **Check** button.
+ - Repo Link - [Click here](https://github.com/mk-manishkumar/learning-tkinter/tree/main/Spelling%20Checker)
  - Screenshot:
 
 ![07](https://github.com/mk-manishkumar/learning-tkinter/assets/102028645/2e92c87a-9dd5-41a1-b0d3-8b302d012d53)
